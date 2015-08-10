@@ -1,0 +1,10 @@
+{
+   "layers": [{
+       "src": "IND_adm2.shp",
+       "simplify":5,
+           "join":{"group-by":"NAME_1","group-as":"NAME_1"},
+		"attributes": ["ISO3", "NAME_1"],
+		"labeling": {"key": "NAME_1"}
+
+   }]
+}

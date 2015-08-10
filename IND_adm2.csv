@@ -1,0 +1,595 @@
+"ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2","Shape_Length","Shape_Area"
+105,"IND","India","1","Andaman and Nicobar","1","Andaman Islands","District","District",NA,NA,26.2192336672642,0.489001743117127
+105,"IND","India","1","Andaman and Nicobar","2","Nicobar Islands","District","District",NA,NA,7.29468831235335,0.141482567238197
+105,"IND","India","10","Delhi","111","Delhi","District","District",NA,NA,2.06442757095585,0.138635077084473
+105,"IND","India","11","Goa","112","North Goa","District","District",NA,NA,2.68599207016546,0.143729266848819
+105,"IND","India","11","Goa","113","South Goa","District","District",NA,NA,3.39215335794907,0.167345799840405
+105,"IND","India","12","Gujarat","114","Ahmadabad","District","District",NA,NA,8.46924279104331,0.679897591879105
+105,"IND","India","12","Gujarat","115","Amreli","District","District",NA,"Amereli",6.17337306096169,0.640738577909352
+105,"IND","India","12","Gujarat","116","Anand","District","District",NA,NA,4.16798021127684,0.252520010035374
+105,"IND","India","12","Gujarat","117","Banas Kantha","District","District",NA,"Banaskantha, Palanpur",7.56519529362985,0.94394260199623
+105,"IND","India","12","Gujarat","118","Bharuch","District","District",NA,NA,6.57758336983993,0.474597220214521
+105,"IND","India","12","Gujarat","119","Bhavnagar","District","District",NA,"Bhaunagar",10.3445415511055,0.73262120346044
+105,"IND","India","12","Gujarat","120","Dahod","District","District",NA,"Dohad",4.68296412408233,0.459792402834884
+105,"IND","India","12","Gujarat","121","Gandhinagar","District","District",NA,NA,2.9539229992269,0.15202329763998
+105,"IND","India","12","Gujarat","122","Jamnagar","District","District",NA,NA,13.4780976094932,0.986949095131408
+105,"IND","India","12","Gujarat","123","Junagadh","District","District",NA,NA,7.27256895857346,0.714654643328671
+105,"IND","India","12","Gujarat","124","Kachchh","District","District",NA,"Kutch",33.0976405720738,3.73483054761895
+105,"IND","India","12","Gujarat","125","Kheda","District","District",NA,"Kaira",4.56879915151891,0.350501142915149
+105,"IND","India","12","Gujarat","126","Mahesana","District","District",NA,"Mehasana, Mehsana",4.86209891543906,0.388157059474884
+105,"IND","India","12","Gujarat","127","Narmada","District","District",NA,NA,3.27084234603464,0.224181044184639
+105,"IND","India","12","Gujarat","128","Navsari","District","District",NA,NA,3.0047325432421,0.189440412388657
+105,"IND","India","12","Gujarat","129","Panch Mahals","District","District",NA,"Godhra, Panchmahal",5.04433645508533,0.320717797301742
+105,"IND","India","12","Gujarat","130","Patan","District","District",NA,NA,5.90777883475409,0.532568493195881
+105,"IND","India","12","Gujarat","131","Porbandar","District","District",NA,NA,5.30478938715155,0.2015777903362
+105,"IND","India","12","Gujarat","132","Rajkot","District","District",NA,NA,10.2913888116825,0.97791544310892
+105,"IND","India","12","Gujarat","133","Sabar Kantha","District","District",NA,"Sabarkantha, Himatnagar",5.69939921627261,0.658489342728004
+105,"IND","India","12","Gujarat","134","Surat","District","District",NA,NA,8.24142382966342,0.65622804876329
+105,"IND","India","12","Gujarat","135","Surendranagar","District","District",NA,NA,8.32024034192898,0.91971521821693
+105,"IND","India","12","Gujarat","136","The Dangs","District","District",NA,"Dangs",1.8787330597503,0.148477694376199
+105,"IND","India","12","Gujarat","137","Vadodara","District","District",NA,"Baroda",7.35440137798516,0.67784256635057
+105,"IND","India","12","Gujarat","138","Valsad","District","District",NA,"Bulsar|Walsad",4.25455911933239,0.26453939842032
+105,"IND","India","13","Haryana","139","Ambala","District","District",NA,NA,2.95526087035133,0.164479822153223
+105,"IND","India","13","Haryana","140","Bhiwani","District","District",NA,NA,3.6837556982798,0.428092731548562
+105,"IND","India","13","Haryana","141","Faridabad","District","District",NA,NA,2.67966060838272,0.198649081874448
+105,"IND","India","13","Haryana","142","Fatehabad","District","District",NA,NA,2.94902839232068,0.223445179668481
+105,"IND","India","13","Haryana","143","Gurgaon","District","District",NA,NA,3.91823931862525,0.252756680900333
+105,"IND","India","13","Haryana","144","Hisar","District","District",NA,NA,3.94379033303291,0.386878827404887
+105,"IND","India","13","Haryana","145","Jhajjar","District","District",NA,NA,2.99464089198857,0.194834811489265
+105,"IND","India","13","Haryana","146","Jind","District","District",NA,NA,3.36808769954584,0.254149619664575
+105,"IND","India","13","Haryana","147","Kaithal","District","District",NA,NA,3.18507383857147,0.214695363203618
+105,"IND","India","13","Haryana","148","Karnal","District","District",NA,NA,2.77367708919223,0.240933062326799
+105,"IND","India","13","Haryana","149","Kurukshetra","District","District",NA,NA,2.74309382848202,0.171738774333796
+105,"IND","India","13","Haryana","150","Mahendragarh","District","District",NA,"Mahendergarh, Mahendragarth, Mohindargarh, Mohindergarh",3.59344049543073,0.17795899973863
+105,"IND","India","13","Haryana","151","Panchkula","District","District",NA,NA,1.66899744868063,0.0694756034426944
+105,"IND","India","13","Haryana","152","Panipat","District","District",NA,NA,1.71303022293737,0.113766635462527
+105,"IND","India","13","Haryana","153","Rewari","District","District",NA,NA,2.28031861815922,0.115190355587384
+105,"IND","India","13","Haryana","154","Rohtak","District","District",NA,NA,2.32473893051564,0.155941861150503
+105,"IND","India","13","Haryana","155","Sirsa","District","District",NA,"Sirasa",3.94633836398137,0.394112633555756
+105,"IND","India","13","Haryana","156","Sonepat","District","District",NA,"Sonipat",2.53085016823536,0.20507620194258
+105,"IND","India","13","Haryana","157","Yamuna Nagar","District","District",NA,NA,1.91009058950287,0.122342196431419
+105,"IND","India","14","Himachal Pradesh","158","Bilaspur","District","District",NA,NA,2.13033854435683,0.110554987557418
+105,"IND","India","14","Himachal Pradesh","159","Chamba","District","District",NA,NA,5.14242170531132,0.621141359195423
+105,"IND","India","14","Himachal Pradesh","160","Hamirpur","District","District",NA,NA,1.69329522816896,0.106654116505512
+105,"IND","India","14","Himachal Pradesh","161","Kangra","District","District",NA,NA,5.08369680837303,0.545261138133378
+105,"IND","India","14","Himachal Pradesh","162","Kinnaur","District","District",NA,"Kalpa",4.70138650890068,0.61353396280903
+105,"IND","India","14","Himachal Pradesh","163","Kullu","District","District",NA,NA,3.78500474731244,0.524580407436574
+105,"IND","India","14","Himachal Pradesh","164","Lahul and Spiti","District","District",NA,NA,8.66592892435031,1.32478929400532
+105,"IND","India","14","Himachal Pradesh","165","Mandi","District","District",NA,NA,2.9734613929098,0.375371453985291
+105,"IND","India","14","Himachal Pradesh","166","Shimla","District","District",NA,"Simla",5.08800877835216,0.485694182141726
+105,"IND","India","14","Himachal Pradesh","167","Sirmaur","District","District",NA,"Sirmour|Sirmoor|Sirmur",3.06058791615226,0.2643689637189
+105,"IND","India","14","Himachal Pradesh","168","Solan","District","District",NA,NA,2.68999437244467,0.184812570172645
+105,"IND","India","14","Himachal Pradesh","169","Una","District","District",NA,NA,2.08506929059384,0.146097374446978
+105,"IND","India","15","Jammu and Kashmir","170","Anantnag (Kashmir South)","District","District",NA,NA,3.87100717380766,0.427965364593554
+105,"IND","India","15","Jammu and Kashmir","171","Bagdam","District","District",NA,NA,1.47537470081927,0.122235950184397
+105,"IND","India","15","Jammu and Kashmir","172","Baramula (Kashmir North)","District","District",NA,NA,4.6555448683833,0.50606356358913
+105,"IND","India","15","Jammu and Kashmir","173","Doda","District","District",NA,NA,5.64739542985849,1.02924270421498
+105,"IND","India","15","Jammu and Kashmir","174","Jammu","District","District",NA,NA,3.49267350906719,0.350299085330346
+105,"IND","India","15","Jammu and Kashmir","175","Kargil","District","District",NA,NA,7.07093445261942,1.39893749500336
+105,"IND","India","15","Jammu and Kashmir","176","Kathua","District","District",NA,NA,2.18613149524191,0.193661116471044
+105,"IND","India","15","Jammu and Kashmir","177","Kupwara (Muzaffarabad)","District","District",NA,NA,2.45944164224108,0.268808419219566
+105,"IND","India","15","Jammu and Kashmir","178","Ladakh (Leh)","District","District",NA,NA,12.9326610587596,4.66402069410827
+105,"IND","India","15","Jammu and Kashmir","179","Pulwama","District","District",NA,NA,1.54848292044399,0.101482333251613
+105,"IND","India","15","Jammu and Kashmir","180","Punch","District","District",NA,NA,3.33809249888234,0.297805323556514
+105,"IND","India","15","Jammu and Kashmir","181","Rajauri","District","District",NA,NA,2.81253720895198,0.311175780545446
+105,"IND","India","15","Jammu and Kashmir","182","Srinagar","District","District",NA,NA,1.8972784017781,0.164758773797062
+105,"IND","India","15","Jammu and Kashmir","183","Udhampur","District","District",NA,NA,3.88624534160781,0.446552801848197
+105,"IND","India","16","Jharkhand","184","Bokaro","District","District",NA,NA,3.83055166926424,0.254061116465918
+105,"IND","India","16","Jharkhand","185","Chatra","District","District",NA,NA,4.34748157934677,0.333825373643772
+105,"IND","India","16","Jharkhand","186","Deoghar","District","District",NA,"Devghar",2.72009524197607,0.217136635284996
+105,"IND","India","16","Jharkhand","187","Dhanbad","District","District",NA,NA,2.16673206502421,0.184664576328927
+105,"IND","India","16","Jharkhand","188","Dumka","District","District",NA,"Santhal Pargana, Santal Parganas",3.58218719223936,0.335715863802766
+105,"IND","India","16","Jharkhand","189","Garhwa","District","District",NA,NA,3.55619820680955,0.362168409585151
+105,"IND","India","16","Jharkhand","190","Giridih","District","District",NA,NA,4.07320910527752,0.444371408761077
+105,"IND","India","16","Jharkhand","191","Godda","District","District",NA,"Goodda",2.55773315822501,0.200265333485722
+105,"IND","India","16","Jharkhand","192","Gumla","District","District",NA,NA,4.89555925114949,0.472904016351083
+105,"IND","India","16","Jharkhand","193","Hazaribag","District","District",NA,NA,6.6190333225283,0.546616509709551
+105,"IND","India","16","Jharkhand","194","Jamtara","District","District",NA,NA,2.88556132475311,0.160110490338413
+105,"IND","India","16","Jharkhand","195","Koderma","District","District",NA,NA,2.27189371053868,0.117810863128392
+105,"IND","India","16","Jharkhand","196","Latehar","District","District",NA,NA,4.40630910520352,0.377590638949169
+105,"IND","India","16","Jharkhand","197","Lohardaga","District","District",NA,"Lohargada",2.14771300247193,0.132561708189316
+105,"IND","India","16","Jharkhand","198","Pakur","District","District",NA,NA,2.77951408258478,0.161762827170612
+105,"IND","India","16","Jharkhand","199","Palamu","District","District",NA,NA,4.07356855771623,0.395945793869048
+105,"IND","India","16","Jharkhand","200","Pashchim Singhbhum","District","District",NA,"Singhbhum West",4.74550785908017,0.634236473953949
+105,"IND","India","16","Jharkhand","201","Purba Singhbhum","District","District",NA,"Singhbhum East",3.83084903206645,0.31416576015182
+105,"IND","India","16","Jharkhand","202","Ranchi","District","District",NA,NA,5.47773956663066,0.675369539894757
+105,"IND","India","16","Jharkhand","203","Sahibganj","District","District",NA,NA,2.57516025068844,0.196645254058238
+105,"IND","India","16","Jharkhand","204","Saraikela Kharsawan","District","District",NA,NA,3.25694584415369,0.233440341464288
+105,"IND","India","16","Jharkhand","205","Simdega","District","District",NA,NA,3.57788212839852,0.332923272755588
+105,"IND","India","17","Karnataka","206","Bagalkot","District","District",NA,NA,5.77789052100542,0.553821956287716
+105,"IND","India","17","Karnataka","207","Bangalore Rural","District","District",NA,NA,7.17712363945863,0.483936569238697
+105,"IND","India","17","Karnataka","208","Bangalore Urban","District","District",NA,NA,2.77293599194848,0.181516795113554
+105,"IND","India","17","Karnataka","209","Belgaum","District","District",NA,NA,9.39176405492728,1.12651752274178
+105,"IND","India","17","Karnataka","210","Bellary","District","District",NA,NA,6.83888442803692,0.708337212839994
+105,"IND","India","17","Karnataka","211","Bidar","District","District",NA,NA,4.66826151650503,0.463418252322304
+105,"IND","India","17","Karnataka","212","Bijapur","District","District",NA,NA,6.23599420595132,0.88870989942369
+105,"IND","India","17","Karnataka","213","Chamrajnagar","District","District",NA,NA,5.05048332905951,0.469209636728901
+105,"IND","India","17","Karnataka","214","Chikmagalur","District","District",NA,"Chikmaglur|Kadur",4.97885355929162,0.600026877993497
+105,"IND","India","17","Karnataka","215","Chitradurga","District","District",NA,"Chitaldroog|Chitaldrug",5.78521673592388,0.70566905658054
+105,"IND","India","17","Karnataka","216","Dakshin Kannad","District","District",NA,NA,4.3945318418969,0.379807250959856
+105,"IND","India","17","Karnataka","217","Davanagere","District","District",NA,NA,5.59316624739304,0.553735703120716
+105,"IND","India","17","Karnataka","218","Dharwad","District","District",NA,"Dhawad, Dharwar",4.03747692227466,0.35869631746756
+105,"IND","India","17","Karnataka","219","Gadag","District","District",NA,NA,4.9026925157929,0.389915134106556
+105,"IND","India","17","Karnataka","220","Gulbarga","District","District",NA,NA,8.97881523011307,1.37726345445842
+105,"IND","India","17","Karnataka","221","Hassan","District","District",NA,NA,5.52801843803282,0.565800288419271
+105,"IND","India","17","Karnataka","222","Haveri","District","District",NA,NA,4.07415716365036,0.402374173616415
+105,"IND","India","17","Karnataka","223","Kodagu","District","District",NA,"Coorg",3.89778355465506,0.340390757548449
+105,"IND","India","17","Karnataka","224","Kolar","District","District",NA,NA,6.82655064160043,0.684285352119367
+105,"IND","India","17","Karnataka","225","Koppal","District","District",NA,NA,4.85222872486334,0.468085860706169
+105,"IND","India","17","Karnataka","226","Mandya","District","District",NA,NA,4.4240145979579,0.409783845985648
+105,"IND","India","17","Karnataka","227","Mysore","District","District",NA,NA,5.51073534003383,0.523123956365464
+105,"IND","India","17","Karnataka","228","Raichur","District","District",NA,NA,4.85077138895746,0.71255509868933
+105,"IND","India","17","Karnataka","229","Shimoga","District","District",NA,NA,5.89260872166388,0.647171246691877
+105,"IND","India","17","Karnataka","230","Tumkur","District","District",NA,NA,9.15526571664749,0.884369550225547
+105,"IND","India","17","Karnataka","231","Udupi","District","District",NA,NA,4.01657546249583,0.325735999740586
+105,"IND","India","17","Karnataka","232","Uttar Kannand","District","District",NA,NA,8.07369101417647,0.862707384090772
+105,"IND","India","18","Kerala","233","Alappuzha","District","District",NA,"Alleppey",4.7901084497744,0.102518028597855
+105,"IND","India","18","Kerala","234","Ernakulam","District","District",NA,NA,5.872745960159,0.185569158431454
+105,"IND","India","18","Kerala","235","Idukki","District","District",NA,"Idikki",4.86549191300903,0.411327564597737
+105,"IND","India","18","Kerala","236","Kannur","District","District",NA,"Cannanore",5.0783406623243,0.230251259043129
+105,"IND","India","18","Kerala","237","Kasaragod","District","District",NA,NA,4.01602813159085,0.162230369282044
+105,"IND","India","18","Kerala","238","Kollam","District","District",NA,"Quilon",3.03638186801896,0.197677462176229
+105,"IND","India","18","Kerala","239","Kottayam","District","District",NA,NA,2.9211051375234,0.173194811664876
+105,"IND","India","18","Kerala","240","Kozhikode","District","District",NA,"Calicut",2.97019484335253,0.188249594048097
+105,"IND","India","18","Kerala","241","Malappuram","District","District",NA,NA,3.51144988387836,0.289643351643485
+105,"IND","India","18","Kerala","242","Palakkad","District","District",NA,"Palghat",4.49404224807084,0.369666030808701
+105,"IND","India","18","Kerala","243","Pattanamtitta","District","District",NA,NA,3.1609426569097,0.216769240359984
+105,"IND","India","18","Kerala","244","Thiruvananthapuram","District","District",NA,"Trivandrum",2.53104253314523,0.167776386355394
+105,"IND","India","18","Kerala","245","Thrissur","District","District",NA,"Trichur",3.8426413918136,0.242850337592249
+105,"IND","India","18","Kerala","246","Wayanad","District","District",NA,"Wynaad|Wynad",2.36995137848011,0.17595342872666
+105,"IND","India","19","Lakshadweep","247","Kavaratti","District","District",NA,NA,1.74454176441496,0.00287857710282335
+105,"IND","India","2","Andhra Pradesh","10","Nellore","District","District",NA,NA,9.87952169584883,1.09724593381907
+105,"IND","India","2","Andhra Pradesh","11","Prakasam","District","District",NA,NA,7.66275730985877,1.49967616941649
+105,"IND","India","2","Andhra Pradesh","12","Srikakulam","District","District",NA,"Srikakulum",6.46390215206609,0.537179595427004
+105,"IND","India","2","Andhra Pradesh","13","Vishakhapatnam","District","District",NA,"Fisakapatnam|Vizagapatam|Visakhapatnam",9.04217395282587,0.969559305223795
+105,"IND","India","2","Andhra Pradesh","14","Vizianagaram","District","District",NA,"Vizianagram",7.21542217914417,0.48978753664416
+105,"IND","India","2","Andhra Pradesh","15","West Godavari","District","District",NA,NA,4.55829693852678,0.657849657240126
+105,"IND","India","2","Andhra Pradesh","3","Anantapur","District","District",NA,"Anantpur, Ananthapur",11.9417619805723,1.61187567446902
+105,"IND","India","2","Andhra Pradesh","4","Chittoor","District","District",NA,"Chitoor|Chittor",10.1540825547072,1.26620966435074
+105,"IND","India","2","Andhra Pradesh","5","Cuddapah","District","District",NA,NA,6.68259522181673,1.2699487578575
+105,"IND","India","2","Andhra Pradesh","6","East Godavari","District","District",NA,NA,8.41127899219684,0.91350711395352
+105,"IND","India","2","Andhra Pradesh","7","Guntur","District","District",NA,NA,6.95545250984959,0.964803169004855
+105,"IND","India","2","Andhra Pradesh","8","Krishna","District","District",NA,"Kistna",7.94417379926987,0.729451769017068
+105,"IND","India","2","Andhra Pradesh","9","Kurnool","District","District",NA,NA,7.77334941150776,1.49762700098654
+105,"IND","India","20","Madhya Pradesh","248","Anuppur","District","District",NA,NA,2.67340985961624,0.178624675325406
+105,"IND","India","20","Madhya Pradesh","249","Ashoknagar","District","District",NA,NA,3.73286010622414,0.421156015909249
+105,"IND","India","20","Madhya Pradesh","250","Balaghat","District","District",NA,NA,6.11004159289869,0.808228169880738
+105,"IND","India","20","Madhya Pradesh","251","Barwani","District","District",NA,NA,4.41245536932286,0.473719747591547
+105,"IND","India","20","Madhya Pradesh","252","Betul","District","District",NA,NA,6.27050016584639,0.879822758957744
+105,"IND","India","20","Madhya Pradesh","253","Bhind","District","District",NA,NA,4.81193857736754,0.404682348293134
+105,"IND","India","20","Madhya Pradesh","254","Bhopal","District","District",NA,NA,3.15142867908269,0.240575894698848
+105,"IND","India","20","Madhya Pradesh","255","Burhanpur","District","District",NA,NA,2.87732749322802,0.278397342779498
+105,"IND","India","20","Madhya Pradesh","256","Chhatarpur","District","District",NA,"Chhatapur|Chatarpur",7.98540049233217,0.777956970232436
+105,"IND","India","20","Madhya Pradesh","257","Chhindwara","District","District",NA,NA,6.78537230723255,1.03331090122085
+105,"IND","India","20","Madhya Pradesh","258","Damoh","District","District",NA,NA,5.34924782860771,0.651587645981642
+105,"IND","India","20","Madhya Pradesh","259","Datia","District","District",NA,NA,3.34247034302259,0.227127759062577
+105,"IND","India","20","Madhya Pradesh","260","Dewas","District","District",NA,NA,6.93126959032354,0.611638955000654
+105,"IND","India","20","Madhya Pradesh","261","Dhar","District","District",NA,NA,5.30333019336952,0.713903918564016
+105,"IND","India","20","Madhya Pradesh","262","Dindori","District","District",NA,NA,5.74977035988573,0.570822699999582
+105,"IND","India","20","Madhya Pradesh","263","East Nimar","District","District",NA,"Khandwa",5.31886671774877,0.650840463873449
+105,"IND","India","20","Madhya Pradesh","264","Guna","District","District",NA,"Goona",5.87574029400847,0.561169825006807
+105,"IND","India","20","Madhya Pradesh","265","Gwalior","District","District",NA,"Gird, Gird Gwalior",3.32970319054695,0.413133277957973
+105,"IND","India","20","Madhya Pradesh","266","Harda","District","District",NA,NA,2.8291555819491,0.290355477722169
+105,"IND","India","20","Madhya Pradesh","267","Hoshangabad","District","District",NA,NA,5.06816025834373,0.589148986902731
+105,"IND","India","20","Madhya Pradesh","268","Indore","District","District",NA,NA,4.18480798366347,0.343563362512214
+105,"IND","India","20","Madhya Pradesh","269","Jabalpur","District","District",NA,"Jubbulpore",4.61002944617152,0.353782740472513
+105,"IND","India","20","Madhya Pradesh","270","Jhabua","District","District",NA,NA,5.99128603684792,0.59356028123874
+105,"IND","India","20","Madhya Pradesh","271","Katni","District","District",NA,NA,5.25696963520938,0.545687460093164
+105,"IND","India","20","Madhya Pradesh","272","Mandla","District","District",NA,NA,5.26720317915904,0.59505147398157
+105,"IND","India","20","Madhya Pradesh","273","Mandsaur","District","District",NA,"Mandasor",5.18809308668967,0.50048983294255
+105,"IND","India","20","Madhya Pradesh","274","Morena","District","District",NA,"Tonwarghar",5.57614027709659,0.451000406050305
+105,"IND","India","20","Madhya Pradesh","275","Narsinghpur","District","District",NA,"Narsimhapur",4.61713508729366,0.452914843255691
+105,"IND","India","20","Madhya Pradesh","276","Neemuch","District","District",NA,NA,5.8197280501212,0.370357299019798
+105,"IND","India","20","Madhya Pradesh","277","Panna","District","District",NA,NA,5.96669046195953,0.633277226595983
+105,"IND","India","20","Madhya Pradesh","278","Raisen","District","District",NA,NA,6.58132894018048,0.749433617602332
+105,"IND","India","20","Madhya Pradesh","279","Rajgarh","District","District",NA,NA,4.16624040966248,0.542508728074591
+105,"IND","India","20","Madhya Pradesh","280","Ratlam","District","District",NA,NA,4.83635647733643,0.42576593964624
+105,"IND","India","20","Madhya Pradesh","281","Rewa","District","District",NA,NA,5.40444582918449,0.563574951862384
+105,"IND","India","20","Madhya Pradesh","282","Sagar","District","District",NA,"Saugor",8.34696918058289,0.908707694550683
+105,"IND","India","20","Madhya Pradesh","283","Satna","District","District",NA,NA,7.5381129586885,0.668484820380421
+105,"IND","India","20","Madhya Pradesh","284","Sehore","District","District",NA,NA,7.33319358208208,0.578033726138536
+105,"IND","India","20","Madhya Pradesh","285","Seoni","District","District",NA,NA,6.20269058187767,0.767535549937764
+105,"IND","India","20","Madhya Pradesh","286","Shahdol","District","District",NA,"Sahdol",7.11384307757217,0.735150135296859
+105,"IND","India","20","Madhya Pradesh","287","Shajapur","District","District",NA,NA,6.40586281585072,0.556546377061747
+105,"IND","India","20","Madhya Pradesh","288","Sheopur","District","District",NA,"Sheopur Kala",4.9274422028007,0.587059602716173
+105,"IND","India","20","Madhya Pradesh","289","Shivpuri","District","District",NA,"Narwar",6.90432428334831,0.93872446448951
+105,"IND","India","20","Madhya Pradesh","290","Sidhi","District","District",NA,NA,5.64105041036177,0.939180907902472
+105,"IND","India","20","Madhya Pradesh","291","Tikamgarh","District","District",NA,NA,6.73133792944472,0.453042177359753
+105,"IND","India","20","Madhya Pradesh","292","Ujjain","District","District",NA,NA,6.16563488507943,0.537011073538458
+105,"IND","India","20","Madhya Pradesh","293","Umaria","District","District",NA,NA,3.96421711808203,0.329633467335944
+105,"IND","India","20","Madhya Pradesh","294","Vidisha","District","District",NA,NA,5.5614653559312,0.647503585139952
+105,"IND","India","20","Madhya Pradesh","295","West Nimar","District","District",NA,"Khargone;Khargaon",5.96669613809607,0.70313314713715
+105,"IND","India","21","Maharashtra","296","Ahmednagar","District","District",NA,"Ahmadnagar",10.5519057847317,1.38595727131179
+105,"IND","India","21","Maharashtra","297","Akola","District","District",NA,NA,5.06887447618086,0.47822751132482
+105,"IND","India","21","Maharashtra","298","Amravati","District","District",NA,"Amaravati, Amraoti, Amaraoti",8.12079856225798,1.05993798942655
+105,"IND","India","21","Maharashtra","299","Aurangabad","District","District",NA,NA,6.77539676260121,0.871360002624011
+105,"IND","India","21","Maharashtra","300","Bhandara","District","District",NA,NA,5.97867334461916,0.408768803128628
+105,"IND","India","21","Maharashtra","301","Bid","District","District",NA,"Bir|Beed|Bhir|Bidh",7.75963172743001,0.978864288896159
+105,"IND","India","21","Maharashtra","302","Buldana","District","District",NA,NA,6.13763182262404,0.831675806119161
+105,"IND","India","21","Maharashtra","303","Chandrapur","District","District",NA,"Chanda",5.97274293591857,0.976878259862104
+105,"IND","India","21","Maharashtra","304","Dhule","District","District",NA,"Dhulia, West Khandesh",5.43866542238737,0.623029717782607
+105,"IND","India","21","Maharashtra","305","Garhchiroli","District","District",NA,NA,8.32388014470465,1.24661423398361
+105,"IND","India","21","Maharashtra","306","Gondiya","District","District",NA,NA,4.4702534510107,0.403127966557793
+105,"IND","India","21","Maharashtra","307","Greater Bombay","District","District",NA,NA,2.76374821765683,0.0751168331626021
+105,"IND","India","21","Maharashtra","308","Hingoli","District","District",NA,NA,4.42791001880952,0.403499791107602
+105,"IND","India","21","Maharashtra","309","Jalgaon","District","District",NA,"East Khandesh",6.83576907616364,1.02017393863205
+105,"IND","India","21","Maharashtra","310","Jalna","District","District",NA,NA,6.0795316829972,0.670745886549403
+105,"IND","India","21","Maharashtra","311","Kolhapur","District","District",NA,NA,8.16429841747597,0.647767218986699
+105,"IND","India","21","Maharashtra","312","Latur","District","District",NA,"Kulaba, Kolaba, Kolabad",4.60714997060768,0.618378592465843
+105,"IND","India","21","Maharashtra","313","Nagpur","District","District",NA,NA,5.45531828199054,0.863321790762736
+105,"IND","India","21","Maharashtra","314","Nanded","District","District",NA,"Nander",9.38736131591364,0.909123293749891
+105,"IND","India","21","Maharashtra","315","Nandurbar","District","District",NA,NA,6.2265430356555,0.517185634365895
+105,"IND","India","21","Maharashtra","316","Nashik","District","District",NA,"Nasik",7.70716654544659,1.34096771368057
+105,"IND","India","21","Maharashtra","317","Osmanabad","District","District",NA,NA,6.82482589196506,0.644802613314838
+105,"IND","India","21","Maharashtra","318","Parbhani","District","District",NA,NA,5.01955206316771,0.543877709329545
+105,"IND","India","21","Maharashtra","319","Pune","District","District",NA,"Poona",8.7524128682437,1.33527745054746
+105,"IND","India","21","Maharashtra","320","Raigarh","District","District",NA,"Raygad",8.37721589544348,0.599826312733073
+105,"IND","India","21","Maharashtra","321","Ratnagiri","District","District",NA,NA,8.20078292112081,0.71914328253479
+105,"IND","India","21","Maharashtra","322","Sangli","District","District",NA,"South Satara",8.25596204093897,0.724658367711511
+105,"IND","India","21","Maharashtra","323","Satara","District","District",NA,"North Satara",5.69976428680218,0.891484321953621
+105,"IND","India","21","Maharashtra","324","Sindhudurg","District","District",NA,"Kudal, Sindhdurg",6.34353220008694,0.43688569179357
+105,"IND","India","21","Maharashtra","325","Solapur","District","District",NA,"Sholapur",10.9728858534697,1.26690112589134
+105,"IND","India","21","Maharashtra","326","Thane","District","District",NA,"Thana",5.8634546400589,0.789860646189482
+105,"IND","India","21","Maharashtra","327","Wardha","District","District",NA,NA,4.35254853055899,0.547360127362495
+105,"IND","India","21","Maharashtra","328","Washim","District","District",NA,NA,5.3189682063617,0.448801225153149
+105,"IND","India","21","Maharashtra","329","Yavatmal","District","District",NA,"Yeotmal",8.38482036533454,1.16822891545597
+105,"IND","India","22","Manipur","330","Bishnupur","District","District",NA,"Bishenpur|Sishnupur",1.51252863226967,0.0428408048319734
+105,"IND","India","22","Manipur","331","Chandel","District","District",NA,"Tengnoupal",3.0432603572609,0.283264411918942
+105,"IND","India","22","Manipur","332","Churachandpur","District","District",NA,"Manipur South|Churchandpur",4.22846481169436,0.419671692165099
+105,"IND","India","22","Manipur","333","East Imphal","District","District",NA,NA,2.78607034590697,0.0534178381567429
+105,"IND","India","22","Manipur","334","Senapati","District","District",NA,NA,6.24893920503355,0.312109137717947
+105,"IND","India","22","Manipur","335","Tamenglong","District","District",NA,"Manipur West",3.98725268689656,0.375155002082466
+105,"IND","India","22","Manipur","336","Thoubal","District","District",NA,NA,2.06674163104713,0.0636197772910274
+105,"IND","India","22","Manipur","337","Ukhrul","District","District",NA,"Manipur East, Ukhurul",3.53342491061977,0.398321085791415
+105,"IND","India","22","Manipur","338","West Imphal","District","District",NA,NA,1.87303901915669,0.0435713582773798
+105,"IND","India","23","Meghalaya","339","East Garo Hills","District","District",NA,NA,3.5594678688787,0.26399849172593
+105,"IND","India","23","Meghalaya","340","East Khasi Hills","District","District",NA,NA,2.9001210916707,0.255007327737984
+105,"IND","India","23","Meghalaya","341","Jaintia Hills","District","District",NA,NA,3.31208526488924,0.340189384471144
+105,"IND","India","23","Meghalaya","342","Ri-Bhoi","District","District",NA,NA,3.55798528199866,0.214811899204515
+105,"IND","India","23","Meghalaya","343","South Garo Hills","District","District",NA,NA,2.32812812753769,0.165159305783168
+105,"IND","India","23","Meghalaya","344","West Garo Hills","District","District",NA,NA,2.91177711210294,0.304468606620499
+105,"IND","India","23","Meghalaya","345","West Khasi Hills","District","District",NA,NA,3.95842083690118,0.470634475888794
+105,"IND","India","24","Mizoram","346","Aizawl","District","District",NA,"Aizawal",4.25109113814032,0.306032701570084
+105,"IND","India","24","Mizoram","347","Champhai","District","District",NA,NA,3.06357277901049,0.303735783592857
+105,"IND","India","24","Mizoram","348","Kolasib","District","District",NA,"Aizawal",2.13074973426152,0.119875305950701
+105,"IND","India","24","Mizoram","349","Lawngtlai","District","District",NA,NA,2.89891251720388,0.174833954813939
+105,"IND","India","24","Mizoram","350","Lunglei","District","District",NA,NA,3.89660470010266,0.398337456790656
+105,"IND","India","24","Mizoram","351","Mamit","District","District",NA,NA,3.60434392760356,0.269918250778571
+105,"IND","India","24","Mizoram","352","Saiha","District","District",NA,"Chhimtuipui",2.75272261762675,0.173355683225961
+105,"IND","India","24","Mizoram","353","Serchhip","District","District",NA,NA,2.47499147435111,0.119901508842301
+105,"IND","India","25","Nagaland","354","Dimapur","District","District",NA,NA,1.7091680042895,0.0780054702481697
+105,"IND","India","25","Nagaland","355","Kohima","District","District",NA,NA,3.73964277743463,0.269091545538691
+105,"IND","India","25","Nagaland","356","Mokokchung","District","District",NA,"Mokochung",2.33848171686313,0.145346144083303
+105,"IND","India","25","Nagaland","357","Mon","District","District",NA,NA,2.55716990939285,0.196618453635885
+105,"IND","India","25","Nagaland","358","Phek","District","District",NA,"Pheka",2.50646288306567,0.171743537808656
+105,"IND","India","25","Nagaland","359","Tuensang","District","District",NA,"Tuenasang",3.97524370516476,0.347880255823848
+105,"IND","India","25","Nagaland","360","Wokha","District","District",NA,NA,2.19580871008011,0.146865983020687
+105,"IND","India","25","Nagaland","361","Zunheboto","District","District",NA,"Zanheboto|Zonheboto",2.26204448640117,0.141885959172205
+105,"IND","India","26","Orissa","362","Angul","District","District",NA,NA,5.28166925824486,0.553670262197569
+105,"IND","India","26","Orissa","363","Baleshwar","District","District",NA,"Balasore, Baleswar",4.81661693708939,0.322932690593017
+105,"IND","India","26","Orissa","364","Baragarh","District","District",NA,NA,5.16993316659269,0.505084049495052
+105,"IND","India","26","Orissa","365","Bhadrak","District","District",NA,NA,2.98487180587782,0.213058459623441
+105,"IND","India","26","Orissa","366","Bolangir","District","District",NA,"Balangir",4.93560425302768,0.569845229940255
+105,"IND","India","26","Orissa","367","Boudh","District","District",NA,NA,3.71591638253249,0.270746154703357
+105,"IND","India","26","Orissa","368","Cuttack","District","District",NA,NA,5.57047649361462,0.341425588987491
+105,"IND","India","26","Orissa","369","Deogarh","District","District",NA,"Debagarh",3.34423744448499,0.245212144036506
+105,"IND","India","26","Orissa","370","Dhenkanal","District","District",NA,NA,3.64516690316061,0.388839756466028
+105,"IND","India","26","Orissa","371","Gajapati","District","District",NA,NA,4.00381089483038,0.349378734215875
+105,"IND","India","26","Orissa","372","Ganjam","District","District",NA,NA,6.54107649504242,0.721729433731504
+105,"IND","India","26","Orissa","373","Jagatsinghpur","District","District",NA,NA,3.70283090859655,0.144437914859736
+105,"IND","India","26","Orissa","374","Jajpur","District","District",NA,NA,3.78004675723647,0.251999814085132
+105,"IND","India","26","Orissa","375","Jharsuguda","District","District",NA,NA,3.16177695883307,0.185181877772278
+105,"IND","India","26","Orissa","376","Kalahandi","District","District",NA,NA,5.52027955277612,0.68270024580123
+105,"IND","India","26","Orissa","377","Kandhamal","District","District",NA,"Phulabani",5.65033083475675,0.696718015758959
+105,"IND","India","26","Orissa","378","Kendrapara","District","District",NA,NA,5.26558529692168,0.215035991575856
+105,"IND","India","26","Orissa","379","Keonjhar","District","District",NA,"Kendujhar",5.77228820150129,0.725655981754207
+105,"IND","India","26","Orissa","380","Khordha","District","District",NA,NA,5.52912891981787,0.238050302701582
+105,"IND","India","26","Orissa","381","Koraput","District","District",NA,NA,7.09889978962667,0.735570423770678
+105,"IND","India","26","Orissa","382","Malkangiri","District","District",NA,NA,4.43883988915723,0.498169168502509
+105,"IND","India","26","Orissa","383","Mayurbhanj","District","District",NA,NA,6.76441265873652,0.913339409504259
+105,"IND","India","26","Orissa","384","Nabarangpur","District","District",NA,NA,4.64313069272055,0.457032785474454
+105,"IND","India","26","Orissa","385","Nayagarh","District","District",NA,NA,3.83614304016885,0.337027395653426
+105,"IND","India","26","Orissa","386","Nuapada","District","District",NA,NA,3.67473732616716,0.335101903496236
+105,"IND","India","26","Orissa","387","Puri","District","District",NA,NA,5.05021179860034,0.302063127084706
+105,"IND","India","26","Orissa","388","Rayagada","District","District",NA,NA,6.66442044343096,0.634703897623716
+105,"IND","India","26","Orissa","389","Sambalpur","District","District",NA,NA,5.48018025279285,0.587618144636545
+105,"IND","India","26","Orissa","390","Sonepur","District","District",NA,"Balangir",3.03356461427543,0.205063778965277
+105,"IND","India","26","Orissa","391","Sundargarh","District","District",NA,"Sundagarh|Bonai",7.17851001624912,0.852211152108787
+105,"IND","India","27","Puducherry","392","Karaikal","District","District",NA,"Karaikkal|Karikal",1.02643663026529,0.0158891354221898
+105,"IND","India","27","Puducherry","393","Mahe","District","District",NA,NA,0.956665666848123,0.0106573333032419
+105,"IND","India","27","Puducherry","394","Puducherry","District","District",NA,"Pondicherry|Puduchcheri|PondichÃ©ry",1.58046570987958,0.0162045955039447
+105,"IND","India","27","Puducherry","395","Yanam","District","District",NA,"Yanaon",0.506720654097774,0.00267350386275443
+105,"IND","India","28","Punjab","396","Amritsar","District","District",NA,NA,4.0846780355557,0.470865166811575
+105,"IND","India","28","Punjab","397","Bathinda","District","District",NA,"Bhatinda",3.88955495876992,0.314977517264204
+105,"IND","India","28","Punjab","398","Faridkot","District","District",NA,"Fridkot",2.16689900020899,0.136182393885972
+105,"IND","India","28","Punjab","399","Fatehgarh Sahib","District","District",NA,NA,2.64620692840651,0.110392135495188
+105,"IND","India","28","Punjab","400","Firozpur","District","District",NA,"Ferojpur, Firozepur, Ferozepore, Feruzpur",5.71972238222011,0.490809501126938
+105,"IND","India","28","Punjab","401","Gurdaspur","District","District",NA,"Guardaspur",4.24703423348149,0.341469899278305
+105,"IND","India","28","Punjab","402","Hoshiarpur","District","District",NA,NA,3.75743216665754,0.319428670612971
+105,"IND","India","28","Punjab","403","Jalandhar","District","District",NA,"Jullundur",3.94249070137644,0.24635465055324
+105,"IND","India","28","Punjab","404","Kapurthala","District","District",NA,NA,3.96325021927497,0.157151392384565
+105,"IND","India","28","Punjab","405","Ludhiana","District","District",NA,NA,3.61037107316703,0.336473761977696
+105,"IND","India","28","Punjab","406","Mansa","District","District",NA,NA,3.07174940476998,0.206164446222824
+105,"IND","India","28","Punjab","407","Moga","District","District",NA,NA,2.51927160671673,0.216932762596121
+105,"IND","India","28","Punjab","408","Muktsar","District","District",NA,NA,3.21835990169658,0.243697858189993
+105,"IND","India","28","Punjab","409","Nawan Shehar","District","District",NA,NA,2.29564841136617,0.122539919524569
+105,"IND","India","28","Punjab","410","Patiala","District","District",NA,NA,6.19063254937727,0.348136270476948
+105,"IND","India","28","Punjab","411","Rupnagar","District","District",NA,"Ropar, Roop Nagar, Rupar",4.05082996224221,0.197666314474193
+105,"IND","India","28","Punjab","412","Sangrur","District","District",NA,"Sangroor",4.98479573015769,0.476774307899166
+105,"IND","India","29","Rajasthan","413","Ajmer","District","District",NA,NA,7.23557744088471,0.781203101301795
+105,"IND","India","29","Rajasthan","414","Alwar","District","District",NA,NA,7.58341786398756,0.757897391224116
+105,"IND","India","29","Rajasthan","415","Banswara","District","District",NA,NA,3.6426646348431,0.44582801326761
+105,"IND","India","29","Rajasthan","416","Baran","District","District",NA,NA,5.70737516335111,0.610189932500359
+105,"IND","India","29","Rajasthan","417","Barmer","District","District",NA,NA,9.75984943697517,2.5473608298781
+105,"IND","India","29","Rajasthan","418","Bharatpur","District","District",NA,NA,6.17336177744304,0.460271824486005
+105,"IND","India","29","Rajasthan","419","Bhilwara","District","District",NA,"Bhilavara",6.66892684721139,0.938017583968787
+105,"IND","India","29","Rajasthan","420","Bikaner","District","District",NA,NA,9.98689135310426,2.47448996262389
+105,"IND","India","29","Rajasthan","421","Bundi","District","District",NA,NA,4.11395357470125,0.50032545916475
+105,"IND","India","29","Rajasthan","422","Chittaurgarh","District","District",NA,NA,11.0670273455573,0.945358273085724
+105,"IND","India","29","Rajasthan","423","Churu","District","District",NA,NA,8.53339864817816,1.56838826489549
+105,"IND","India","29","Rajasthan","424","Dausa","District","District",NA,NA,4.32198452727886,0.326037168444589
+105,"IND","India","29","Rajasthan","425","Dhaulpur","District","District",NA,NA,3.59248052718129,0.274339566967678
+105,"IND","India","29","Rajasthan","426","Dungarpur","District","District",NA,NA,3.32744192055761,0.334413563032295
+105,"IND","India","29","Rajasthan","427","Ganganagar","District","District",NA,"Sri Ganganagar",6.57709804344665,1.08435650421595
+105,"IND","India","29","Rajasthan","428","Hanumangarh","District","District",NA,NA,7.15652516136018,0.8261048072236
+105,"IND","India","29","Rajasthan","429","Jaipur","District","District",NA,"Jeipur",7.26866691485294,1.02229842021186
+105,"IND","India","29","Rajasthan","430","Jaisalmer","District","District",NA,NA,11.6462917263381,3.50948703104949
+105,"IND","India","29","Rajasthan","431","Jalor","District","District",NA,NA,6.7206062690445,0.957933282894344
+105,"IND","India","29","Rajasthan","432","Jhalawar","District","District",NA,NA,6.73001141190845,0.555819002052889
+105,"IND","India","29","Rajasthan","433","Jhunjhunun","District","District",NA,"Jhunjhunu",4.51724084184715,0.542941690437177
+105,"IND","India","29","Rajasthan","434","Jodhpur","District","District",NA,NA,9.48417202808731,2.06889257903097
+105,"IND","India","29","Rajasthan","435","Karauli","District","District",NA,NA,4.56802481453311,0.469274545488588
+105,"IND","India","29","Rajasthan","436","Kota","District","District",NA,"Kotah",6.10746194107494,0.492613205962703
+105,"IND","India","29","Rajasthan","437","Nagaur","District","District",NA,NA,8.57233876211297,1.60552370514046
+105,"IND","India","29","Rajasthan","438","Pali","District","District",NA,NA,7.9085048073006,1.10837866138176
+105,"IND","India","29","Rajasthan","439","Rajsamand","District","District",NA,NA,5.25709746116938,0.41127268533455
+105,"IND","India","29","Rajasthan","440","Sawai Madhopur","District","District",NA,NA,4.75592123870425,0.421744306047925
+105,"IND","India","29","Rajasthan","441","Sikar","District","District",NA,NA,6.38131253528595,0.702409187448188
+105,"IND","India","29","Rajasthan","442","Sirohi","District","District",NA,NA,4.02175143186929,0.458356390248834
+105,"IND","India","29","Rajasthan","443","Tonk","District","District",NA,NA,6.00082104774226,0.653469536991953
+105,"IND","India","29","Rajasthan","444","Udaipur","District","District",NA,NA,7.87134958248681,1.13140984651543
+105,"IND","India","3","Arunachal Pradesh","16","Changlang","District","District",NA,NA,5.31060560316218,0.451087103545423
+105,"IND","India","3","Arunachal Pradesh","17","East Kameng","District","District",NA,NA,4.1911934457587,0.373004248438522
+105,"IND","India","3","Arunachal Pradesh","18","East Siang","District","District",NA,NA,3.73356984018636,0.332174649680368
+105,"IND","India","3","Arunachal Pradesh","19","Kurung Kumey","District","District",NA,NA,3.80970950388014,0.525102274390514
+105,"IND","India","3","Arunachal Pradesh","20","Lohit","District","District",NA,"Lohit Frontier Division",5.21307300396972,0.952580964636585
+105,"IND","India","3","Arunachal Pradesh","21","Lower Dibang Valley","District","District",NA,NA,3.83181581807564,0.512162812381606
+105,"IND","India","3","Arunachal Pradesh","22","Lower Subansiri","District","District",NA,NA,3.05799239143981,0.346506080662951
+105,"IND","India","3","Arunachal Pradesh","23","Papum Pare","District","District",NA,NA,3.82438416413985,0.321976107821684
+105,"IND","India","3","Arunachal Pradesh","24","Tawang","District","District",NA,NA,2.38683396790881,0.199295997830647
+105,"IND","India","3","Arunachal Pradesh","25","Tirap","District","District",NA,"Tirap Frontier Tract",2.39288505932517,0.19250044513319
+105,"IND","India","3","Arunachal Pradesh","26","Upper Dibang Valley","District","District",NA,NA,4.98624167886127,0.695480886810394
+105,"IND","India","3","Arunachal Pradesh","27","Upper Siang","District","District",NA,NA,4.64514559333084,0.648627329850571
+105,"IND","India","3","Arunachal Pradesh","28","Upper Subansiri","District","District",NA,NA,4.61012192738517,0.589784993870127
+105,"IND","India","3","Arunachal Pradesh","29","West Kameng","District","District",NA,NA,5.13667134738285,0.671571129372747
+105,"IND","India","3","Arunachal Pradesh","30","West Siang","District","District",NA,NA,5.45236732362624,0.717445777379899
+105,"IND","India","30","Sikkim","445","East","District","District",NA,NA,1.3835059050908,0.0860129103166351
+105,"IND","India","30","Sikkim","446","North Sikkim","District","District",NA,"North District",2.98846347391373,0.388217536827152
+105,"IND","India","30","Sikkim","447","South Sikkim","District","District",NA,"South District",1.5162643484522,0.066701234442014
+105,"IND","India","30","Sikkim","448","West Sikkim","District","District",NA,"West District",1.68821229073104,0.106093852577031
+105,"IND","India","31","Tamil Nadu","449","Ariyalur","District","District",NA,NA,2.24029909005413,0.16142922790459
+105,"IND","India","31","Tamil Nadu","450","Chennai","District","District",NA,"Madras",0.768724639014,0.0162482577434233
+105,"IND","India","31","Tamil Nadu","451","Coimbatore","District","District",NA,NA,5.59314006945213,0.612298588730493
+105,"IND","India","31","Tamil Nadu","452","Cuddalore","District","District",NA,NA,4.16902163031936,0.316170794551
+105,"IND","India","31","Tamil Nadu","453","Dharmapuri","District","District",NA,"Dharampuri",5.99082666422754,0.801691461896562
+105,"IND","India","31","Tamil Nadu","454","Dindigul","District","District",NA,"Anna",5.26897022835258,0.500039834249049
+105,"IND","India","31","Tamil Nadu","455","Erode","District","District",NA,"Periyar",7.07471732997687,0.677012324773453
+105,"IND","India","31","Tamil Nadu","456","Kancheepuram","District","District",NA,NA,4.97568458127835,0.387449603094866
+105,"IND","India","31","Tamil Nadu","457","Kanniyakumari","District","District",NA,NA,2.20455950741632,0.130584145877945
+105,"IND","India","31","Tamil Nadu","458","Karur","District","District",NA,NA,3.92636242244913,0.238860508768977
+105,"IND","India","31","Tamil Nadu","459","Madurai","District","District",NA,"Madura, Mathurai",4.39035452708186,0.304005386195042
+105,"IND","India","31","Tamil Nadu","460","Nagapattinam","District","District",NA,NA,5.15885693399314,0.198801033850009
+105,"IND","India","31","Tamil Nadu","461","Namakkal","District","District",NA,NA,3.49489487189927,0.281601786035027
+105,"IND","India","31","Tamil Nadu","462","Nilgiris","District","District",NA,"Nilgiri",2.81492003651302,0.210944058289878
+105,"IND","India","31","Tamil Nadu","463","Perambalur","District","District",NA,NA,2.51442062715613,0.145065826764044
+105,"IND","India","31","Tamil Nadu","464","Pudukkottai","District","District",NA,"Pudukottai",5.51486277883904,0.387152590541511
+105,"IND","India","31","Tamil Nadu","465","Ramanathapuram","District","District",NA,"Ramananthapuram, Rameswaram, Ramnad",7.4749719943204,0.350777045543496
+105,"IND","India","31","Tamil Nadu","466","Salem","District","District",NA,NA,5.78292025981302,0.431988873027881
+105,"IND","India","31","Tamil Nadu","467","Sivaganga","District","District",NA,"Pasumpon Muthuramalinga",5.6359646814103,0.335222929636101
+105,"IND","India","31","Tamil Nadu","468","Thanjavur","District","District",NA,"Tanjore",5.49832578467064,0.28021849499785
+105,"IND","India","31","Tamil Nadu","469","Theni","District","District",NA,NA,2.88847356226975,0.234535549527207
+105,"IND","India","31","Tamil Nadu","470","Thiruvallur","District","District",NA,NA,5.61215089511079,0.269719678351997
+105,"IND","India","31","Tamil Nadu","471","Thiruvarur","District","District",NA,NA,5.01532235614042,0.207838730864765
+105,"IND","India","31","Tamil Nadu","472","Thoothukudi","District","District",NA,"Chidambaranar",5.68601336219745,0.387368165222146
+105,"IND","India","31","Tamil Nadu","473","Tiruchchirappalli","District","District",NA,NA,6.67181123703674,0.372450817951151
+105,"IND","India","31","Tamil Nadu","474","Tirunelveli Kattabo","District","District",NA,NA,5.54898023459196,0.55641420933899
+105,"IND","India","31","Tamil Nadu","475","Tiruvannamalai","District","District",NA,NA,5.95693236684264,0.514078440784935
+105,"IND","India","31","Tamil Nadu","476","Vellore","District","District",NA,"North Arcot",6.27451890720556,0.505168597850558
+105,"IND","India","31","Tamil Nadu","477","Villupuram","District","District",NA,NA,6.78108051014841,0.605355097322931
+105,"IND","India","31","Tamil Nadu","478","Virudhunagar","District","District",NA,"Kamarajar",4.51460620297941,0.353163125488225
+105,"IND","India","32","Telangana","479","Adilabad","District","District",NA,NA,8.10353882956298,1.37864819639071
+105,"IND","India","32","Telangana","480","Hyderabad","District","District",NA,NA,0.596126544950945,0.0151365824131089
+105,"IND","India","32","Telangana","481","Karimnagar","District","District",NA,NA,7.09402780399326,1.0183745958493
+105,"IND","India","32","Telangana","482","Khammam","District","District",NA,"Khammamamet",9.69615859156112,1.37049407177986
+105,"IND","India","32","Telangana","483","Mahbubnagar","District","District",NA,"Mehbubnagar;Mahaboobnagar",9.18295239993047,1.55506466133012
+105,"IND","India","32","Telangana","484","Medak","District","District",NA,"Sangapeddi",6.83263965893172,0.831896068579268
+105,"IND","India","32","Telangana","485","Nalgonda","District","District",NA,NA,6.40444291287276,1.19636975591128
+105,"IND","India","32","Telangana","486","Nizamabad","District","District",NA,NA,4.68557254750976,0.676637207667247
+105,"IND","India","32","Telangana","487","Rangareddi","District","District",NA,"Rangareddy",7.81804083237633,0.641479664249317
+105,"IND","India","32","Telangana","488","Warangal","District","District",NA,NA,7.57582511429483,1.09247479835176
+105,"IND","India","33","Tripura","489","Dhalai","District","District",NA,NA,2.65395673644413,0.195561304601119
+105,"IND","India","33","Tripura","490","North Tripura","District","District",NA,NA,2.96147435784319,0.182549971388671
+105,"IND","India","33","Tripura","491","South Tripura","District","District",NA,NA,3.56374642652485,0.282305296736021
+105,"IND","India","33","Tripura","492","West Tripura","District","District",NA,NA,3.73183959799451,0.264901577473199
+105,"IND","India","34","Uttar Pradesh","493","Agra","District","District",NA,NA,6.3593133587382,0.320663833510513
+105,"IND","India","34","Uttar Pradesh","494","Aligarh","District","District",NA,NA,4.19678064887216,0.354362556638053
+105,"IND","India","34","Uttar Pradesh","495","Allahabad","District","District",NA,NA,5.16921855080526,0.461475627002074
+105,"IND","India","34","Uttar Pradesh","496","Ambedkar Nagar","District","District",NA,NA,3.34861272071227,0.21033855347196
+105,"IND","India","34","Uttar Pradesh","497","Auraiya","District","District",NA,NA,2.65691349805865,0.197488224745028
+105,"IND","India","34","Uttar Pradesh","498","Azamgarh","District","District",NA,NA,4.59937127831937,0.35146951797647
+105,"IND","India","34","Uttar Pradesh","499","Badaun","District","District",NA,NA,4.24501954944539,0.466102688093045
+105,"IND","India","34","Uttar Pradesh","500","Baghpat","District","District",NA,NA,1.78194931077495,0.123446171230171
+105,"IND","India","34","Uttar Pradesh","501","Bahraich","District","District",NA,NA,5.25376016597594,0.337473857238327
+105,"IND","India","34","Uttar Pradesh","502","Ballia","District","District",NA,"Balia",3.85916872443089,0.27091532916529
+105,"IND","India","34","Uttar Pradesh","503","Balrampur","District","District",NA,NA,3.95982736331759,0.307489071659809
+105,"IND","India","34","Uttar Pradesh","504","Banda","District","District",NA,NA,5.29829151403739,0.405711342697015
+105,"IND","India","34","Uttar Pradesh","505","Bara Banki","District","District",NA,NA,4.70803239429082,0.402728635090162
+105,"IND","India","34","Uttar Pradesh","506","Bareilly","District","District",NA,"Bareilley",3.63152748284605,0.348533360178426
+105,"IND","India","34","Uttar Pradesh","507","Basti","District","District",NA,NA,3.0948616011537,0.228506853512964
+105,"IND","India","34","Uttar Pradesh","508","Bijnor","District","District",NA,"Bijnar|Bijnore",3.36666600840555,0.400989534573453
+105,"IND","India","34","Uttar Pradesh","509","Bulandshahr","District","District",NA,"Bulandshahar, Buland Sahar",3.01894974913856,0.329429294790307
+105,"IND","India","34","Uttar Pradesh","510","Chandauli","District","District",NA,NA,3.24695216321985,0.226992081632498
+105,"IND","India","34","Uttar Pradesh","511","Chitrakoot","District","District",NA,NA,4.69813475791026,0.276246568231747
+105,"IND","India","34","Uttar Pradesh","512","Deoria","District","District",NA,NA,3.46627851817929,0.231334450523726
+105,"IND","India","34","Uttar Pradesh","513","Etah","District","District",NA,NA,4.71909488433377,0.409350177957103
+105,"IND","India","34","Uttar Pradesh","514","Etawah","District","District",NA,NA,2.57718061505076,0.195387885978546
+105,"IND","India","34","Uttar Pradesh","515","Faizabad","District","District",NA,"Fyzabad",2.80923081777618,0.190303131123059
+105,"IND","India","34","Uttar Pradesh","516","Farrukhabad","District","District",NA,"Farrukahabad, Ferrukhabad",2.66208897630283,0.199388293745878
+105,"IND","India","34","Uttar Pradesh","517","Fatehpur","District","District",NA,NA,3.98028596159044,0.376189056609335
+105,"IND","India","34","Uttar Pradesh","518","Firozabad","District","District",NA,NA,4.21900117505634,0.259280122118065
+105,"IND","India","34","Uttar Pradesh","519","Gautam Buddha Nagar","District","District",NA,NA,2.55321960273208,0.12762703798217
+105,"IND","India","34","Uttar Pradesh","520","Ghaziabad","District","District",NA,NA,3.2947621997917,0.182482328149475
+105,"IND","India","34","Uttar Pradesh","521","Ghazipur","District","District",NA,"Gajipur",3.57331420989769,0.304323202522961
+105,"IND","India","34","Uttar Pradesh","522","Gonda","District","District",NA,NA,4.11429397873988,0.364718604010717
+105,"IND","India","34","Uttar Pradesh","523","Gorakhpur","District","District",NA,"Goruckpur",3.85149764070909,0.277948653878457
+105,"IND","India","34","Uttar Pradesh","524","Hamirpur","District","District",NA,NA,4.94261849737476,0.383484561338277
+105,"IND","India","34","Uttar Pradesh","525","Hardoi","District","District",NA,NA,4.868354175776,0.548095649210126
+105,"IND","India","34","Uttar Pradesh","526","Hathras","District","District",NA,NA,2.81574694213312,0.148133047106962
+105,"IND","India","34","Uttar Pradesh","527","Jalaun","District","District",NA,NA,4.45770686301327,0.411775594482619
+105,"IND","India","34","Uttar Pradesh","528","Jaunpur","District","District",NA,"Jaupur",4.57137606469048,0.363105840478965
+105,"IND","India","34","Uttar Pradesh","529","Jhansi","District","District",NA,NA,8.51612364260476,0.454878680095154
+105,"IND","India","34","Uttar Pradesh","530","Jyotiba Phule Nagar","District","District",NA,NA,3.09725382271245,0.232729822848351
+105,"IND","India","34","Uttar Pradesh","531","Kannauj","District","District",NA,NA,2.57914525630154,0.188660867519501
+105,"IND","India","34","Uttar Pradesh","532","Kanpur Dehat","District","District",NA,"Kanpur Rural",4.70392715640113,0.455447386055286
+105,"IND","India","34","Uttar Pradesh","533","Kanpur","District","District",NA,"Kanpur Nagar",1.82587367342018,0.0957163410275816
+105,"IND","India","34","Uttar Pradesh","534","Kaushambi","District","District",NA,NA,2.70322134484516,0.188857789427845
+105,"IND","India","34","Uttar Pradesh","535","Kushinagar","District","District",NA,NA,4.05137921491165,0.262301640847017
+105,"IND","India","34","Uttar Pradesh","536","Lakhimpur Kheri","District","District",NA,"Kheri",6.3492420989438,0.707359258296505
+105,"IND","India","34","Uttar Pradesh","537","Lalitpur","District","District",NA,NA,3.84156477899781,0.450095747786667
+105,"IND","India","34","Uttar Pradesh","538","Lucknow","District","District",NA,NA,3.17584726968698,0.23062894145553
+105,"IND","India","34","Uttar Pradesh","539","Maharajganj","District","District",NA,NA,3.49052367459732,0.290293563870352
+105,"IND","India","34","Uttar Pradesh","540","Mahoba","District","District",NA,NA,3.74425856073787,0.254333491677263
+105,"IND","India","34","Uttar Pradesh","541","Mainpuri","District","District",NA,NA,2.93111843753092,0.250495264372168
+105,"IND","India","34","Uttar Pradesh","542","Mathura","District","District",NA,"Muttra",3.18113231205598,0.308418067354081
+105,"IND","India","34","Uttar Pradesh","543","Mau","District","District",NA,NA,2.75790909188325,0.186369045099113
+105,"IND","India","34","Uttar Pradesh","544","Meerut","District","District",NA,NA,2.7063072243457,0.241317957865259
+105,"IND","India","34","Uttar Pradesh","545","Mirzapur","District","District",NA,NA,5.12787521850862,0.403934811991325
+105,"IND","India","34","Uttar Pradesh","546","Moradabad","District","District",NA,NA,3.79737627746892,0.311935395184298
+105,"IND","India","34","Uttar Pradesh","547","Muzaffarnagar","District","District",NA,NA,3.55451186492392,0.376510804024285
+105,"IND","India","34","Uttar Pradesh","548","Pilibhit","District","District",NA,NA,4.15456089060357,0.331153711056687
+105,"IND","India","34","Uttar Pradesh","549","Pratapgarh","District","District",NA,"Bela cum Pratapgarh, Partabgarh, Partapgarh",4.60135490060749,0.334648847274378
+105,"IND","India","34","Uttar Pradesh","550","Rae Bareli","District","District",NA,"Rai Bareli, Rai Bareilly",4.20352658699289,0.417381502542417
+105,"IND","India","34","Uttar Pradesh","551","Rampur","District","District",NA,NA,3.16330628465544,0.237603611880313
+105,"IND","India","34","Uttar Pradesh","552","Saharanpur","District","District",NA,NA,3.21502364393082,0.34767327436565
+105,"IND","India","34","Uttar Pradesh","553","Sant Kabir Nagar","District","District",NA,NA,2.9917336185819,0.120383225163097
+105,"IND","India","34","Uttar Pradesh","554","Sant Ravi Das Nagar","District","District",NA,NA,2.40742278329292,0.09049941346894
+105,"IND","India","34","Uttar Pradesh","555","Shahjahanpur","District","District",NA,"Shahajahanpur",5.03347545207686,0.426697129689266
+105,"IND","India","34","Uttar Pradesh","556","Shravasti","District","District",NA,NA,3.68291263045383,0.288345531211245
+105,"IND","India","34","Uttar Pradesh","557","Siddharth Nagar","District","District",NA,"Sidharthnagar",3.91431022604014,0.316944189784423
+105,"IND","India","34","Uttar Pradesh","558","Sitapur","District","District",NA,NA,4.83607464320808,0.528027463209589
+105,"IND","India","34","Uttar Pradesh","559","Sonbhadra","District","District",NA,"Sonebhadra",4.82238715201877,0.604291152674688
+105,"IND","India","34","Uttar Pradesh","560","Sultanpur","District","District",NA,NA,4.72485378232308,0.399361322139181
+105,"IND","India","34","Uttar Pradesh","561","Unnao","District","District",NA,"Unnao Nagar, Unao",4.46422579198864,0.416752039418497
+105,"IND","India","34","Uttar Pradesh","562","Varanasi","District","District",NA,"Benares",2.55348481195488,0.139148418536943
+105,"IND","India","35","Uttaranchal","563","Almora","District","District",NA,NA,3.47410206749781,0.289156578583051
+105,"IND","India","35","Uttaranchal","564","Bageshwar","District","District",NA,NA,3.00145960701337,0.213279894058352
+105,"IND","India","35","Uttaranchal","565","Chamoli","District","District",NA,"Chamoli cum Gopeshwar",4.83693701918642,0.744996870300392
+105,"IND","India","35","Uttaranchal","566","Champawat","District","District",NA,NA,2.20578979087845,0.156431446252094
+105,"IND","India","35","Uttaranchal","567","Dehra Dun","District","District",NA,NA,4.06157184753564,0.288094127252407
+105,"IND","India","35","Uttaranchal","568","Haridwar","District","District",NA,"Hardwar",2.56282596604265,0.222785552024994
+105,"IND","India","35","Uttaranchal","569","Naini Tal","District","District",NA,NA,3.77493938548289,0.377428797692122
+105,"IND","India","35","Uttaranchal","570","Pauri Garhwal","District","District",NA,"Garhwal",3.78586414220677,0.509569561225362
+105,"IND","India","35","Uttaranchal","571","Pithoragarh","District","District",NA,NA,5.57534877288818,0.686008378230329
+105,"IND","India","35","Uttaranchal","572","Rudra Prayag","District","District",NA,NA,1.83307757810545,0.114184807593115
+105,"IND","India","35","Uttaranchal","573","Tehri Garhwal","District","District",NA,"Tehri|Narendranagar|Tehri Garwal",4.87789959121977,0.412159464751312
+105,"IND","India","35","Uttaranchal","574","Udham Singh Nagar","District","District",NA,NA,4.91256317868865,0.265144850702221
+105,"IND","India","35","Uttaranchal","575","Uttarkashi","District","District",NA,NA,6.49356707987759,0.759666495469005
+105,"IND","India","36","West Bengal","576","Bankura","District","District",NA,NA,4.3552925140952,0.614051709635518
+105,"IND","India","36","West Bengal","577","Barddhaman","District","District",NA,NA,6.48920483174081,0.622122674372837
+105,"IND","India","36","West Bengal","578","Birbhum","District","District",NA,NA,5.4436831483347,0.404091463678909
+105,"IND","India","36","West Bengal","579","Dakshin Dinajpur","District","District",NA,"Dinajpur(South)",3.00350650270077,0.187386119730952
+105,"IND","India","36","West Bengal","580","Darjiling","District","District",NA,NA,3.96705875205096,0.285727078015023
+105,"IND","India","36","West Bengal","581","East Midnapore","District","District",NA,"Purba Medinipur",4.3642743527839,0.348275120391901
+105,"IND","India","36","West Bengal","582","Haora","District","District",NA,NA,2.37415013645323,0.12643177382414
+105,"IND","India","36","West Bengal","583","Hugli","District","District",NA,NA,4.09024554353843,0.277390527815442
+105,"IND","India","36","West Bengal","584","Jalpaiguri","District","District",NA,NA,5.38625469002598,0.561393177398745
+105,"IND","India","36","West Bengal","585","Kochbihar","District","District",NA,NA,6.27132606570417,0.301111193526584
+105,"IND","India","36","West Bengal","586","Kolkata","District","District",NA,"Calcutta",0.473330481414184,0.00804330268147369
+105,"IND","India","36","West Bengal","587","Maldah","District","District",NA,NA,4.15561632834149,0.323374405801585
+105,"IND","India","36","West Bengal","588","Murshidabad","District","District",NA,NA,5.07304225847282,0.478266708661977
+105,"IND","India","36","West Bengal","589","Nadia","District","District",NA,NA,5.44218742101775,0.34507905860665
+105,"IND","India","36","West Bengal","590","North 24 Parganas","District","District",NA,NA,25.8208157917086,0.509797241626073
+105,"IND","India","36","West Bengal","591","Puruliya","District","District",NA,NA,5.14779761280881,0.552180154998509
+105,"IND","India","36","West Bengal","592","South 24 Parganas","District","District",NA,NA,16.5655225741328,0.483768844002046
+105,"IND","India","36","West Bengal","593","Uttar Dinajpur","District","District",NA,NA,5.48397521187627,0.30270782523438
+105,"IND","India","36","West Bengal","594","West Midnapore","District","District",NA,"Paschim Medinipur",6.40688406988768,0.824481465424452
+105,"IND","India","4","Assam","31","Barpeta","District","District",NA,NA,3.13794384062513,0.292878698965067
+105,"IND","India","4","Assam","32","Bongaigaon","District","District",NA,NA,3.08264612563171,0.208679453397072
+105,"IND","India","4","Assam","33","Cachar","District","District",NA,NA,3.83434737629592,0.33754454086738
+105,"IND","India","4","Assam","34","Darrang","District","District",NA,NA,3.02506255815031,0.323333274463944
+105,"IND","India","4","Assam","35","Dhemaji","District","District",NA,NA,3.72435345376529,0.231923435487261
+105,"IND","India","4","Assam","36","Dhuburi","District","District",NA,NA,4.74928046046784,0.249532006717348
+105,"IND","India","4","Assam","37","Dibrugarh","District","District",NA,NA,3.90990233519146,0.309423206919746
+105,"IND","India","4","Assam","38","Goalpara","District","District",NA,NA,3.02899351118823,0.171455492287355
+105,"IND","India","4","Assam","39","Golaghat","District","District",NA,NA,5.29896731355579,0.319165154483932
+105,"IND","India","4","Assam","40","Hailakandi","District","District",NA,NA,2.15318466315738,0.118782389537958
+105,"IND","India","4","Assam","41","Jorhat","District","District",NA,NA,3.54994594413961,0.257570521433085
+105,"IND","India","4","Assam","42","Kamrup","District","District",NA,"Kampur, Ramrup",5.87290166641415,0.391764851759934
+105,"IND","India","4","Assam","43","Karbi Anglong","District","District",NA,"Mikir Hills , Korbi Anglong",10.1983899932514,0.940575374064808
+105,"IND","India","4","Assam","44","Karimganj","District","District",NA,NA,2.20947636406449,0.161533347170913
+105,"IND","India","4","Assam","45","Kokrajhar","District","District",NA,NA,3.58452053654635,0.296703146639611
+105,"IND","India","4","Assam","46","Lakhimpur","District","District",NA,"North Lakhimpur, Lakhmipur, Lakimpur",3.10764443184138,0.268830568413245
+105,"IND","India","4","Assam","47","Marigaon","District","District",NA,NA,1.9149676443755,0.140407000209971
+105,"IND","India","4","Assam","48","Nagaon","District","District",NA,"Nowgong",6.52904715171299,0.360406919455265
+105,"IND","India","4","Assam","49","Nalbari","District","District",NA,NA,2.7538843321426,0.204611388682672
+105,"IND","India","4","Assam","50","North Cachar Hills","District","District",NA,NA,4.27191517974069,0.440350625583969
+105,"IND","India","4","Assam","51","Sibsagar","District","District",NA,"Sivasagar",3.3365792955524,0.239487966056908
+105,"IND","India","4","Assam","52","Sonitpur","District","District",NA,"Sontipur",4.1685718058821,0.479820558910455
+105,"IND","India","4","Assam","53","Tinsukia","District","District",NA,NA,3.6806350825402,0.346677403758817
+105,"IND","India","5","Bihar","54","Araria","District","District",NA,NA,3.3279738630738,0.25460835595004
+105,"IND","India","5","Bihar","55","Aurangabad","District","District",NA,NA,3.30059435052066,0.293012335037928
+105,"IND","India","5","Bihar","56","Banka","District","District",NA,NA,3.03955782459596,0.27612814146414
+105,"IND","India","5","Bihar","57","Begusarai","District","District",NA,NA,3.30640901614269,0.174116387701374
+105,"IND","India","5","Bihar","58","Bhabua","District","District",NA,"Kaimur",3.2156364558778,0.299628864922853
+105,"IND","India","5","Bihar","59","Bhagalpur","District","District",NA,"Bhagaipur",3.40707185541699,0.229455322412819
+105,"IND","India","5","Bihar","60","Bhojpur","District","District",NA,NA,2.57637265160314,0.213091864796285
+105,"IND","India","5","Bihar","61","Buxar","District","District",NA,NA,2.4886002785828,0.153517252052561
+105,"IND","India","5","Bihar","62","Darbhanga","District","District",NA,NA,3.51821007293808,0.206603261147388
+105,"IND","India","5","Bihar","63","Gaya","District","District",NA,NA,5.2741998617066,0.44299131523441
+105,"IND","India","5","Bihar","64","Gopalganj","District","District",NA,NA,3.13823815299692,0.184693079885616
+105,"IND","India","5","Bihar","65","Jamui","District","District",NA,"Zamui",3.45390417094097,0.27523470038429
+105,"IND","India","5","Bihar","66","Jehanabad","District","District",NA,NA,3.1343015734394,0.143720199906972
+105,"IND","India","5","Bihar","67","Katihar","District","District",NA,"Kathihar",4.19078805974059,0.275051474622165
+105,"IND","India","5","Bihar","68","Khagaria","District","District",NA,NA,2.60310448313457,0.133923166489704
+105,"IND","India","5","Bihar","69","Kishanganj","District","District",NA,NA,3.52716382699668,0.174819468920756
+105,"IND","India","5","Bihar","70","Lakhisarai","District","District",NA,NA,2.06257948222142,0.119663125886308
+105,"IND","India","5","Bihar","71","Madhepura","District","District",NA,"Madhipura",3.04696812784157,0.16549543578005
+105,"IND","India","5","Bihar","72","Madhubani","District","District",NA,NA,4.07746311540139,0.311330314536466
+105,"IND","India","5","Bihar","73","Munger","District","District",NA,"Monghyr",2.23463913589207,0.12269107258907
+105,"IND","India","5","Bihar","74","Muzaffarpur","District","District",NA,"Muzafarpur",3.76382815609837,0.287645853677512
+105,"IND","India","5","Bihar","75","Nalanda","District","District",NA,NA,3.30199992104471,0.209367317795133
+105,"IND","India","5","Bihar","76","Nawada","District","District",NA,"Nawadah",3.26548403726655,0.22195738767914
+105,"IND","India","5","Bihar","77","Pashchim Champaran","District","District",NA,"West Champaran, Paschimi Champaran, Paschim-Champaram",4.33503390913934,0.476050750243299
+105,"IND","India","5","Bihar","78","Patna","District","District",NA,NA,4.96523676568708,0.287694100348762
+105,"IND","India","5","Bihar","79","Purba Champaran","District","District",NA,"East Champaran, Purbi Champaran, Purba Champaram",4.14265434238389,0.361713297701514
+105,"IND","India","5","Bihar","80","Purnia","District","District",NA,"Purnea",3.92474913485717,0.292200433585095
+105,"IND","India","5","Bihar","81","Rohtas","District","District",NA,NA,3.65873788165955,0.34587548723356
+105,"IND","India","5","Bihar","82","Saharsa","District","District",NA,NA,2.61061988504543,0.152042636247637
+105,"IND","India","5","Bihar","83","Samastipur","District","District",NA,NA,4.12413619144906,0.261497560968572
+105,"IND","India","5","Bihar","84","Saran","District","District",NA,NA,2.94776326057071,0.238300338845886
+105,"IND","India","5","Bihar","85","Sheikhpura","District","District",NA,NA,1.50459695589228,0.0540752135711941
+105,"IND","India","5","Bihar","86","Sheohar","District","District",NA,NA,1.40972226370693,0.0520140099833963
+105,"IND","India","5","Bihar","87","Sitamarhi","District","District",NA,NA,3.39401315663458,0.186169775188341
+105,"IND","India","5","Bihar","88","Siwan","District","District",NA,"Sivan",2.81859230442129,0.200914825487402
+105,"IND","India","5","Bihar","89","Supaul","District","District",NA,NA,3.16976159795329,0.215675899227781
+105,"IND","India","5","Bihar","90","Vaishali","District","District",NA,NA,2.26559519684612,0.180825083007215
+105,"IND","India","6","Chandigarh","91","Chandigarh","District","District",NA,NA,0.514101464605505,0.0111254170551546
+105,"IND","India","7","Chhattisgarh","100","Kawardha","District","District",NA,NA,3.45575313978606,0.369499644446485
+105,"IND","India","7","Chhattisgarh","101","Korba","District","District",NA,NA,4.3334563183015,0.580187292885963
+105,"IND","India","7","Chhattisgarh","102","Koriya","District","District",NA,NA,4.68294082573318,0.586595183645853
+105,"IND","India","7","Chhattisgarh","103","Mahasamund","District","District",NA,NA,4.48683177990341,0.413523590177665
+105,"IND","India","7","Chhattisgarh","104","Raigarh","District","District",NA,NA,6.00148087771678,0.619918149488507
+105,"IND","India","7","Chhattisgarh","105","Raipur","District","District",NA,NA,9.38554872180264,1.08201726472905
+105,"IND","India","7","Chhattisgarh","106","Raj Nandgaon","District","District",NA,NA,6.37278954752436,0.700863929465396
+105,"IND","India","7","Chhattisgarh","107","Surguja","District","District",NA,NA,7.31230155615206,1.39227659166498
+105,"IND","India","7","Chhattisgarh","92","Bastar","District","District",NA,"Baster",8.08460006466588,1.28592674640101
+105,"IND","India","7","Chhattisgarh","93","Bilaspur","District","District",NA,NA,5.6489021084244,0.731110631793875
+105,"IND","India","7","Chhattisgarh","94","Dantewada","District","District",NA,NA,7.36086051651057,1.45783244809716
+105,"IND","India","7","Chhattisgarh","95","Dhamtari","District","District",NA,NA,3.65805494133508,0.351946944487264
+105,"IND","India","7","Chhattisgarh","96","Durg","District","District",NA,NA,6.71002663050457,0.749173999240182
+105,"IND","India","7","Chhattisgarh","97","Janjgir-Champa","District","District",NA,"Janjgir",3.45169849030674,0.338696586644781
+105,"IND","India","7","Chhattisgarh","98","Jashpur","District","District",NA,NA,4.37049752743859,0.512171269721892
+105,"IND","India","7","Chhattisgarh","99","Kanker","District","District",NA,NA,5.82854371816962,0.618346456125411
+105,"IND","India","8","Dadra and Nagar Haveli","108","Dadra and Nagar Haveli","District","District",NA,NA,1.67694143672632,0.0424781535912179
+105,"IND","India","9","Daman and Diu","109","Daman","District","District",NA,NA,0.375881287495163,0.00135472289548641
+105,"IND","India","9","Daman and Diu","110","Junagadh","District","District",NA,NA,1.7425715842912,0.0468848890668535
